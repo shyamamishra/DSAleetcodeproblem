@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/shyamamishra/DSAleetcodeproblem/tree/master/1301-number-of-paths-with-max-score) |
+| [1920-build-array-from-permutation](https://github.com/shyamamishra/DSAleetcodeproblem/tree/master/1920-build-array-from-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/shyamamishra/DSAleetcodeproblem/tree/master/1301-number-of-paths-with-max-score) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/shyamamishra/DSAleetcodeproblem/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
